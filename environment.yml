@@ -1,0 +1,11 @@
+name: week8
+channels:
+  - conda-forge
+dependencies:
+  - plotnine
+  - ipykernel
+  - nbconvert
+  - numpy
+  - pandas
+  - pip:
+    - nltk
