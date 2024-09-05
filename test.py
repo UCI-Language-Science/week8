@@ -5,7 +5,7 @@ import pandas as pd
 from nltk.corpus import treebank
 
 # Import the implemented functions
-from analysis_key import (
+from analysis import (
     tagged_sentences,
     get_pos_tag_observations,
     get_n_most_common_pos_tags,
